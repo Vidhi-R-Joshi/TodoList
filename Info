@@ -1,0 +1,13 @@
+//in redux we have to learn four thing
+//store, reducers, useDispatch, useSelector
+
+// store used is in app->store.js
+
+// reducers used is in features->todo->todoSlice.js
+
+//useDispatch used is in components->AddTodo.jsx
+// dispatcher reducers ne use kariye ne store ni ander values ma changes kare
+
+//store and reducers is from pure redux
+
+// useDispatch and useSelector is from react wire up ke redux kai rite use thase from react-redux
